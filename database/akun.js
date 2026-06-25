@@ -14,7 +14,7 @@
     },
     "loginHistory": [],
     "createdAt": "2026-06-25T15:32:04.086Z",
-    "updatedAt": "2026-06-25T15:32:04.088Z"
+    "updatedAt": "2026-06-25T15:33:03.444Z"
   },
   {
     "id": "act_5b16540aa2eda0760fff",
@@ -25,5 +25,15 @@
     "ip": "",
     "userAgent": "",
     "at": "2026-06-25T15:32:04.087Z"
+  },
+  {
+    "id": "act_f9f5303fd89aab3769a4",
+    "type": "activity",
+    "actorId": "system",
+    "action": "system.init",
+    "detail": "Inisialisasi empat berkas database dan akun Owner utama otomatis.",
+    "ip": "",
+    "userAgent": "",
+    "at": "2026-06-25T15:33:03.444Z"
   }
 ]
