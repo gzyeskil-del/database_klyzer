@@ -8,7 +8,7 @@
     "passwordHash": "pbkdf2$c0b9e6e99f8e4c0ea8278a4b5d339dda$490ddc7349759497e1ebd5949faaa979dcca3a4504da320f0704295a572a7e2d",
     "avatar": "",
     "createdAt": "2026-06-25T15:32:04.086Z",
-    "updatedAt": "2026-06-25T18:51:34.263209Z"
+    "updatedAt": "2026-06-25T19:11:44.724713Z"
   },
   {
     "id": "tg_19dcf125f5de35865b93",
