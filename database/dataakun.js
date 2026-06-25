@@ -7,9 +7,6 @@
     "role": "owner",
     "status": "active",
     "approvalStatus": "approved",
-    "approvedBy": "system",
-    "approvedAt": "",
-    "createdAt": "2026-06-25T15:32:04.086Z",
-    "lastLoginAt": null
+    "createdAt": "2026-06-25T15:32:04.086Z"
   }
 ]
