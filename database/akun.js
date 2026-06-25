@@ -8,7 +8,7 @@
     "passwordHash": "pbkdf2$c0b9e6e99f8e4c0ea8278a4b5d339dda$490ddc7349759497e1ebd5949faaa979dcca3a4504da320f0704295a572a7e2d",
     "avatar": "",
     "createdAt": "2026-06-25T15:32:04.086Z",
-    "updatedAt": "2026-06-25T18:47:20.695203Z"
+    "updatedAt": "2026-06-25T18:51:34.263209Z"
   },
   {
     "id": "tg_19dcf125f5de35865b93",
@@ -18,6 +18,16 @@
     "startedAt": "2026-06-25T15:34:12.861Z",
     "lastSeenAt": "2026-06-25T18:28:03.552Z",
     "type": "telegram_start"
+  },
+  {
+    "type": "pending_registration",
+    "id": "reg_735226f8e97258254d19",
+    "username": "Kenzidev51",
+    "telegramId": "1216074758",
+    "passwordHash": "pbkdf2$4383da640a7dec8e15adbc65147e658a$154a59de676ddc271bc8e9f615d0b37dbfdd86c0ddfda5dd39e51ce7839d03d0",
+    "role": "reseller",
+    "status": "pending",
+    "requestedAt": "2026-06-25T18:51:34.263143Z"
   },
   {
     "id": "act_5b16540aa2eda0760fff",
