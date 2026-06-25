@@ -15,7 +15,7 @@
     "remainingDays": 30,
     "notes": "test create license flow",
     "createdAt": "2026-06-25T20:07:56.400320Z",
-    "updatedAt": "2026-06-25T20:07:56.712767Z",
+    "updatedAt": "2026-06-25T20:07:59.288233Z",
     "githubStatus": "masuk"
   }
 ]
