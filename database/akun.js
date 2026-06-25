@@ -14,7 +14,7 @@
     },
     "loginHistory": [],
     "createdAt": "2026-06-25T15:32:04.086Z",
-    "updatedAt": "2026-06-25T18:20:30.472Z"
+    "updatedAt": "2026-06-25T18:28:03.553Z"
   },
   {
     "id": "tg_19dcf125f5de35865b93",
@@ -22,7 +22,7 @@
     "username": "Kenzidev5",
     "firstName": "—友 ⺓𝗩𝗩𝗜𝗣 || 『KENZI』 友—",
     "startedAt": "2026-06-25T15:34:12.861Z",
-    "lastSeenAt": "2026-06-25T17:56:58.515Z",
+    "lastSeenAt": "2026-06-25T18:28:03.552Z",
     "type": "telegram_start"
   },
   {
@@ -114,5 +114,15 @@
     "ip": "",
     "userAgent": "",
     "at": "2026-06-25T18:20:30.471Z"
+  },
+  {
+    "id": "act_b506011248e3b9f5f441",
+    "type": "activity",
+    "actorId": "telegram",
+    "action": "telegram.start",
+    "detail": "Telegram ID 1082147129 mengirim /start.",
+    "ip": "",
+    "userAgent": "",
+    "at": "2026-06-25T18:28:03.552Z"
   }
 ]
